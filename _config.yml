@@ -31,7 +31,7 @@ masthead_title           : "Sandra Marion Kam Tsemo | Mathematical Modelling & M
 breadcrumbs              : true # Enable breadcrumbs for better navigation
 words_per_minute         : 200
 enable_copy_code_button  : true # Useful for code snippets in research posts
-copyright                : "© 2025 Sandra Marion Kam Tsemo"
+copyright                : "Sandra Marion Kam Tsemo"
 copyright_url            : "https://sandrakt.github.io"
 comments:
   provider               : false # Disable comments for now; enable later if needed
